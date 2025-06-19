@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>domain1/000509.jpg</filename>
+  <segmented>0</segmented>
+  <size><width>1290</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <object><name>battery</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>470</xmin>
+      <ymin>247</ymin>
+      <xmax>497</xmax>
+      <ymax>331</ymax>
+    </bndbox>
+  </object>
+  <object><name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>137</xmin>
+      <ymin>220</ymin>
+      <xmax>242</xmax>
+      <ymax>366</ymax>
+    </bndbox>
+  </object>
+  </annotation>

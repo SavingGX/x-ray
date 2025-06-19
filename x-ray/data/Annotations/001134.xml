@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/001134.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>558</width>
+		<height>574</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plasticBottleWithaNozzle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>488</ymin>
+			<xmax>158</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>449</ymin>
+			<xmax>294</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+	</annotation>

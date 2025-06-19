@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/001072.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>511</width>
+		<height>497</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>215</ymin>
+			<xmax>246</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	</annotation>

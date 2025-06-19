@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/000973.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>1408</width>
+		<height>749</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>USBFlashDisk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>1207</xmin>
+			<ymin>470</ymin>
+			<xmax>1312</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>1187</xmin>
+			<ymin>581</ymin>
+			<xmax>1289</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+	</annotation>

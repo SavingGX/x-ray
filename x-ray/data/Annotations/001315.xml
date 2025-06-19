@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/001315.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>531</width>
+		<height>435</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plasticBottleWithaNozzle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>313</ymin>
+			<xmax>337</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>USBFlashDisk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>248</ymin>
+			<xmax>328</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	</annotation>

@@ -1,0 +1,8 @@
+train: D:/x-ray/data/train.txt
+val: D:/x-ray/data/val.txt
+test: D:/x-ray/data/test.txt
+
+nc: 8
+
+names: ['USBFlashDisk','battery','knife','lighter',
+           'plasticBottleWithaNozzle','pressure','scissors','seal']

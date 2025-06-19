@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>domain1/001081.jpg</filename>
+  <segmented>0</segmented>
+  <size><width>767</width>
+    <height>591</height>
+    <depth>3</depth>
+  </size>
+  <object><name>plasticBottleWithaNozzle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>361</xmin>
+      <ymin>385</ymin>
+      <xmax>645</xmax>
+      <ymax>493</ymax>
+    </bndbox>
+  </object>
+  <object><name>battery</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>159</xmin>
+      <ymin>386</ymin>
+      <xmax>224</xmax>
+      <ymax>474</ymax>
+    </bndbox>
+  </object>
+  <object><name>battery</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>153</xmin>
+      <ymin>301</ymin>
+      <xmax>220</xmax>
+      <ymax>370</ymax>
+    </bndbox>
+  </object>
+</annotation>

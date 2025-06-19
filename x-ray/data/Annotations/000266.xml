@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>domain1/000266.jpg</filename>
+  <segmented>0</segmented>
+  <size><width>708</width>
+    <height>530</height>
+    <depth>3</depth>
+  </size>
+  <object><name>seal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>95</xmin>
+      <ymin>142</ymin>
+      <xmax>174</xmax>
+      <ymax>237</ymax>
+    </bndbox>
+  </object>
+  </annotation>

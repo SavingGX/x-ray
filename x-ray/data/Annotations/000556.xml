@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/000556.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>830</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plasticBottleWithaNozzle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>447</ymin>
+			<xmax>225</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+	</annotation>

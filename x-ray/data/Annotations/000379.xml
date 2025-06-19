@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/000379.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>900</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymin>66</ymin>
+			<xmax>779</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+	</annotation>

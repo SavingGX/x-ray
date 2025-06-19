@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/001042.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>903</width>
+		<height>566</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plasticBottleWithaNozzle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>373</ymin>
+			<xmax>265</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plasticBottleWithaNozzle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>74</ymin>
+			<xmax>174</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	</annotation>

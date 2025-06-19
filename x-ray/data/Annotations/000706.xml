@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>domain1/000706.jpg</filename>
+  <segmented>0</segmented>
+  <size><width>799</width>
+    <height>287</height>
+    <depth>3</depth>
+  </size>
+  <object><name>scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>216</xmin>
+      <ymin>172</ymin>
+      <xmax>356</xmax>
+      <ymax>255</ymax>
+    </bndbox>
+  </object>
+</annotation>

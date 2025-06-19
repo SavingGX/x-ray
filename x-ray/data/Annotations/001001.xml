@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/001001.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>982</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>USBFlashDisk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>706</xmin>
+			<ymin>88</ymin>
+			<xmax>737</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	</annotation>

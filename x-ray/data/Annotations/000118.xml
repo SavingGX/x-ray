@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>domain1/000118.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>477</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>79</ymin>
+			<xmax>277</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scissors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<check>0</check>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>143</ymin>
+			<xmax>236</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	</annotation>

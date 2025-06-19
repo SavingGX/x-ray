@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>domain1/000627.jpg</filename>
+  <segmented>0</segmented>
+  <size><width>712</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <object><name>plasticBottleWithaNozzle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>130</xmin>
+      <ymin>575</ymin>
+      <xmax>345</xmax>
+      <ymax>711</ymax>
+    </bndbox>
+  </object>
+  <object><name>plasticBottleWithaNozzle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox><xmin>48</xmin>
+      <ymin>475</ymin>
+      <xmax>203</xmax>
+      <ymax>657</ymax>
+    </bndbox>
+  </object>
+  </annotation>
